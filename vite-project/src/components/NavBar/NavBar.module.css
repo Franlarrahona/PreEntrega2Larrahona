@@ -1,0 +1,28 @@
+.navBar{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid rgb(59, 59, 59); ;
+
+}
+
+h1{
+    font-size: 45px;
+    font-family: 'Lobster', sans-serif;
+    text-decoration: none;
+    
+}
+
+
+.btnbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: black;
+    
+}
+
+.linkStyle{
+    text-decoration: none;
+    color: black;
+    
+}

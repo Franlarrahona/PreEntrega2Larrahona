@@ -1,0 +1,18 @@
+.countClassic{
+display: flex;
+font-size: 20px;
+
+}
+.countItemStyle{
+    display: flex;
+    font-size: 20px;
+    background-color: rgb(59, 59, 59);
+    margin-top: 10px;
+    margin-top: 0px;
+}
+
+.p{
+    background-color: rgb(59, 59, 59);
+    width: 12px;
+    margin-right: 2px;
+}

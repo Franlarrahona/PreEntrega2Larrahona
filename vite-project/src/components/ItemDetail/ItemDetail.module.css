@@ -1,0 +1,60 @@
+.itemDetailStyle{
+    background-color: rgb(59, 59, 59);
+    border: 2px solid rgb(32, 32, 32);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 100px;
+    display: flex;
+}
+.divStyle{
+        background-color:rgb(59, 59, 59) ; 
+        display: flex;
+        flex-direction: column;
+}
+
+.div2Style{
+    background-color:rgb(59, 59, 59);
+    display: flex;
+    justify-content: start;
+    align-items: start;
+
+}
+
+.div3Style{
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+    background-color: rgb(59, 59, 59);
+}
+.nameStyle{
+    background-color:rgb(59, 59, 59) ;
+    display: inline-block;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 880px;
+
+}
+.descriptionStyle{
+    background-color: rgb(59, 59, 59);
+    border: 0;
+    margin-top: 0;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 100px;
+    height: 250px;
+    color: white;
+}
+.priceStyle{
+    display: inline-block;
+    font-size: 40px;
+    margin-bottom: 0;
+    margin-left: 10px;
+    background-color: rgb(59, 59, 59);
+    width: 700px;
+    
+}
+
+.linkStyle{
+    background-color:rgb(59, 59, 59) ;
+}

@@ -1,0 +1,74 @@
+.btnClassic{
+    color: white;
+    background-color: rgb(26, 26, 26);
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 0.5rem;
+    border: 0;
+
+}
+
+.btnNav{
+
+    color: white;
+    background-color: rgb(26, 26, 26);
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 0.5rem;
+    border: 0;
+
+}
+
+
+.btnDetalles{
+    color: white;
+    background-color: rgb(26, 26, 26);
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 0.5rem;
+    border: 0;
+    width: 120px;
+    height: 30px;
+
+}
+
+.btnCerrar{
+
+    color: white;
+    background-color: rgb(26, 26, 26);
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 0.5rem;
+    border: 0;
+}
+
+.btnCountItemDetail{
+    color: white;
+    background-color: rgb(26, 26, 26);
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    margin: 20px;
+    padding-top: 0;
+    border-radius: 0.5rem;
+    border: 0;
+}
